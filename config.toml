@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hauptcloud.net/"
 languageCode = "en-us"
-title = "My New Hugo Site- quickstart3"
+title = "HauptCloud's New Hugo Site- quickstart3"
 theme = "ananke"
